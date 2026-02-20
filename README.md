@@ -25,9 +25,9 @@ Ensure you have `uv` installed. If not, you can install by following the instruc
 
 ### Controls
 
-WASD: Move and Rotate
-Spacebar: Fire Cannon
+1. WASD: Move and Rotate
+2. Spacebar: Fire Cannon
 
-### Acknowledgements
+## Acknowledgements
 
 This project was completed as part of the "Build Asteroids using Python and Pygame" course on Boot.dev. It served as a deep dive into Python project structure, object oriented programming, and game engine fundamentals.
