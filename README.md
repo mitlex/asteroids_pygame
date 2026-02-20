@@ -2,6 +2,8 @@
 
 A modern take on the classic arcade game, built with Python and the Pygame library. This project focuses on object-oriented programming (OOP) principles, collision detection, and game loops.
 
+![Asteroids Gameplay](screenshots/gameplay.gif)
+
 ## Features
 - **Vector-based Movement:** Real-time physics for player rotation and thrust.
 - **Dynamic Collision System:** Scalable collision detection between asteroids, shots, and the player.
